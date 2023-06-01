@@ -3,9 +3,13 @@ Classify facial images in [fer2013](https://www.kaggle.com/datasets/deadskull7/f
 Demo: https://huggingface.co/spaces/sadjava/emotion-classification
 
 ## Features
-⚡Multi Label Image Classification  
-⚡Cutsom Convolutional Network  
-⚡Fine-tuned ResNet18
+⚡ Multi Label Image Classification  
+⚡ Cutsom Convolutional Network  
+⚡ Fine-tuned ResNet18
+
+## Limitations
+❌ Cannot handle multiple objects
+❌ Do not show object location
 
 ## Table of Contents
 - [Objective](#objective)
