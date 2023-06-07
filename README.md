@@ -1,5 +1,5 @@
 # Emotion Classification using Neural Network 
-Classify facial images in [fer2013](https://www.kaggle.com/datasets/deadskull7/fer2013) dataset using custom built convolutional neural network.
+Classify facial images in [fer2013](https://www.kaggle.com/datasets/deadskull7/fer2013) dataset using custom built convolutional neural network.  
 Demo: https://huggingface.co/spaces/sadjava/emotion-classification
 
 ## Features
